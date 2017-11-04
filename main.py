@@ -1,2 +1,2 @@
 print("Simple repo")
-print("Additional repositories are not planned.")
+print("Additional repositories are in thoughts.")
