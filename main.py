@@ -4,7 +4,7 @@ print("Additional repositories may be preplanned.")
 
 statement = "This is a statement"
 
-intVar = 3
-chVar = "Something"
+intVar = 2
+chVar = "Another statement"
 print(str(intVar) + " " + chVar)
 
